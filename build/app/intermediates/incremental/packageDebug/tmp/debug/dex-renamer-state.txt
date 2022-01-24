@@ -1,0 +1,4 @@
+#Wed Sep 29 00:30:00 EDT 2021
+base.0=/Users/dov212/AndroidStudioProjects/daily_screener/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
