@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-davideos/daily_screener/BuildConfig.java
- davideos.daily_screener.BuildConfig
